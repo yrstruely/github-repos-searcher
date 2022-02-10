@@ -1,6 +1,6 @@
 {
   "name": "github-repos-searcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lists a Github user's repositories",
   "main": "index.js",
   "homepage": "https://github.com/yrstruely/github-repos-searcher",
