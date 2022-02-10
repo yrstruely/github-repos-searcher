@@ -1,0 +1,26 @@
+{
+  "name": "github-repos-searcher",
+  "version": "1.0.0",
+  "description": "Lists a Github user's repositories",
+  "main": "index.js",
+  "homepage": "https://github.com/yrstruely/github-repos-searcher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yrstruely/github-repos-searcher.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Yogesh Chavan <myogeshchavan97@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
